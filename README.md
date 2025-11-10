@@ -10,7 +10,7 @@ This project combines sensor data acquisition with digital display and serial mo
 | Real Project | Simulation |
 |:-------------:|:-----------:|
 | ![Real Project Photo](./images/weather_station_photo.jpg)
-| ![Simulation Photo](./images/Simulation.jpg)
+| ![Simulation Photo](./images/Simulation.png)
 
 
 ---
